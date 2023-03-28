@@ -1,0 +1,15 @@
+//google fonts > pesquisa o nome
+//copia em forma de import
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body{
+    //borda escondida e fonte
+    overflow-x: hidden;
+    font-family: 'Poppins';
+}
+
+.mt-page{
+    //distancia do topo da pagina em 90
+    margin-top: 90px;
+}
+
